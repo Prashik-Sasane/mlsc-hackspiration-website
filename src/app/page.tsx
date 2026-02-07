@@ -13,6 +13,7 @@ const PastEvents = dynamic(() => import("@/components/sections/past-events").the
 const Team = dynamic(() => import("@/components/sections/team").then(mod => mod.Team));
 const FAQ = dynamic(() => import("@/components/sections/faq").then(mod => mod.FAQ));
 const Sponsors = dynamic(() => import("@/components/sections/sponsors").then(mod => mod.Sponsors));
+const Partners = dynamic(() => import("@/components/sections/partners").then(mod => mod.Partners));
 const Community = dynamic(() => import("@/components/sections/community").then(mod => mod.Community));
 const Winners = dynamic(() => import("@/components/sections/winners").then(mod => mod.Winners));
 
@@ -29,6 +30,7 @@ export default function Home() {
         </div>
         <Prizes />
         <Sponsors />
+        <Partners />
         <Tracks />
         <Timeline />
         <Eligibility />
