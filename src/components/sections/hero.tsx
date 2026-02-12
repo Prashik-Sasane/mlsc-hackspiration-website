@@ -66,7 +66,7 @@ export function Hero() {
     "
               >
                 <StaggeredText
-                  text="A thrilling one-day hybrid hackathon merging innovation with game-show excitement"
+                  text="A hybrid hackathon featuring an online round on 14th February and an offline finale on 15th February"
                   delay={0.01}
                   staggerDelay={0.01}
                   className="text-md md:text-lg font-mono justify-center"
