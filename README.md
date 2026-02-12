@@ -46,3 +46,21 @@ docker-compose up --build -d
 ```bash
 docker-compose down -v
 ```
+
+
+
+## Web Development Teams
+
+| Name            | Role       | GitHub       | LinkedIn       | Twitter       | Other Links       |
+| --------------- | ---------- | ------------ | -------------- | ------------- | ----------------- |
+| **Neeraj Pathak** | **Lead**   | [**GitHub**](https://github.com/Neerajpathak07) | [**LinkedIn**](https://www.linkedin.com/in/neeraj-pathak-527a682a9/) | [**Twitter**]() | [**Other Links**]() |
+| **Tanishq Thuse** | **Lead**   | [**GitHub**]() | [**LinkedIn**]() | [**Twitter**]() | [**Other Links**]() |
+| Srujal Vispute | Coordinator  | [GitHub](https://github.com/Srujal29) | [LinkedIn](www.linkedin.com/in/srujal-vispute-853754318) | [Twitter]() | [Other Links](https://leetcode.com/u/srujal29/) |
+| Sukhada Raut | Coordinator  | [GitHub](https://github.com/sukhadaraut323) | [LinkedIn](www.linkedin.com/in/sukhada-raut-102351339) | [Twitter]() | [Other Links]() |
+| Aditya Bavadekar | Coordinator  | [GitHub](https://github.com/AdityaBavadekar/) | [LinkedIn](https://www.linkedin.com/in/adityabavadekar/) | [Twitter](https://x.com/sshaditya) | [Hugging Face](https://huggingface.co/AdityaBavadekar) |
+| Vikrant Thakur | Coordinator  | [GitHub](https://github.com/Vikrant-K-Thakur) | [LinkedIn](https://www.linkedin.com/in/vikrant-thakur-043279362/) | [Twitter]() | [Other Links]() |
+| Sanskruti Sathe | Coordinator  | [GitHub](https://github.com/sanscraftscodes) | [LinkedIn](https://www.linkedin.com/in/sanskruti-sathe-527253379/) | [Twitter]() | [Other Links]() |
+| Prashik Sasane | Coordinator  | [GitHub](https://github.com/Prashik-Sasane) | [LinkedIn](https://www.linkedin.com/in/prashik-sasane-2545b12b1/) | [Twitter](https://x.com/SasanePrashik) | [Other Links]() |
+
+
+
