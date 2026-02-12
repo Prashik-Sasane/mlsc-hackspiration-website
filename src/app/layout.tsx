@@ -23,13 +23,13 @@ const orbitron = Orbitron({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://mlsc-hackspiration-2026.vercel.app"),
+  metadataBase: new URL("https://mlsc-hackspiration.vercel.app"),
   title: {
   default: "Hackspiration 2026 Hackathon | MLSC VIT Pune",
   template: "%s | Hackspiration 2026",
   },
   description: "Join Hackspiration'26, a hybrid hackathon at VIT Pune organized by Microsoft Learner's Student Club. Online round on 14th February, offline finale on 15th February. Hack, Hustle, and Win!",
-  keywords: ["Hackathon India", "VIT Pune", "MLSC", "MLSC VIT Pune", "Coding", "Competition", "Hackspiration", "2026", "VIT Pune Hackathon", "Coding Competition India", "College Hackathon Pune"],
+  keywords: ["Hackathon India", "VIT Pune", "MLSC", "MLSC VIT Pune", "Coding", "Competition", "Hackspiration", "2026", "VIT Pune Hackathon", "Coding Competition India", "College Hackathon Pune", "mlsc vit pune hackathon"],
   authors: [{ name: "MLSC VIT Pune" }],
    creator: "MLSC VIT Pune",
   publisher: "MLSC VIT Pune",
@@ -52,12 +52,12 @@ export const metadata: Metadata = {
   },
 
    alternates: {
-    canonical: "https://mlsc-hackspiration-2026.vercel.app",
+    canonical: "https://mlsc-hackspiration.vercel.app",
   },
   openGraph: {
     title: "Hackspiration'26 | MLSC VIT Pune",
     description: "Join Hackspiration'26, a hybrid hackathon at VIT Pune. 1000+ participants, two-phase event with online round on 14th Feb and offline finale on 15th Feb.",
-    url: "https://mlsc-hackspiration-2026.vercel.app",
+    url: "https://mlsc-hackspiration.vercel.app",
     siteName: "Hackspiration'26",
     images: [
       {
