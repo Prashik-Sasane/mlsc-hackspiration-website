@@ -17,6 +17,8 @@ const navLinks = [
     { name: "Prizes", href: "/#prizes" },
     { name: "FAQs", href: "/#faq" },
     { name: "Contest", href: "/contest" },
+    { name: "Top 30 Teams", href: "/top30-teams" },
+
 ]
 
 export function Navbar() {
